@@ -2,3 +2,4 @@ hello!
 2. zeile    
 added a very important change
 added a cool feature
+Hey, we fixed the bug!!!
